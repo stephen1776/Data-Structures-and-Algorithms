@@ -15,3 +15,4 @@ A few examples of questions that we are going to cover in this class are the fol
 	4. What are good strategies to keep a binary tree balanced? 
 
 You will also learn how services like Dropbox manage to upload some large files instantly and to save a lot of storage space!
+
